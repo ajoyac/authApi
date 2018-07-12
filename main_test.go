@@ -3,9 +3,9 @@
 package main_test
 
 import (
-	"."
 	"bytes"
 	"encoding/json"
+	"github.com/ajoyac/authApi"
 	"net/http"
 	"net/http/httptest"
 	"os"
